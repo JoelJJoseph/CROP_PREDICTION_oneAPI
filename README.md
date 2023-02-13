@@ -19,6 +19,8 @@ The crop recommendation application is a cutting-edge tool that helps farmers ma
 ### ✅Test Different Models and find the best model out of it
 
 ### ✅Train the model using Intel ONEAPI to get better results 
+![intel](https://user-images.githubusercontent.com/72274851/218504609-585bcebe-5101-4477-bdd2-3a1ba13a64a8.png)
+
 
 - [x] Decision Tree --> 0.9
 - [x] Naive Bayes --> 0.990909090909091
