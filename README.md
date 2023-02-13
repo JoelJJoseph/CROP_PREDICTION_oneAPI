@@ -1,4 +1,4 @@
 # Crop_PREDTION
 
-#INSPIRATION
+# INSPIRATION
 According to the UN, nearly half of all fruit and vegetables produced globally are wasted each year, leading to a significant waste of resources and energy. In light of this, the inspiration for a crop prediction machine learning model is to promote better yields among farmers and to combat malnutrition among people and animals. By leveraging advanced technology and data analysis, this project aims to optimize crop production and reduce waste, resulting in a more sustainable and efficient food system for all. With this model, farmers can make informed decisions about their crops, leading to increased yields and a reduced need for excessive use of resources such as water, fertilizer, and pesticides. Ultimately, this project has the potential to play a significant role in improving food security and reducing hunger on a global scale.
