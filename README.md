@@ -24,7 +24,7 @@ The crop recommendation application is a cutting-edge tool that helps farmers ma
 
 - [x] SVM --> 0.10681818181818181
 - [x] Logistic Regression --> 0.9522727272727273
-- [x] RF --> 0.990909090909091
+- [x] RF --> 0.9840909090909091
 - [x] XGBoost --> 0.9931818181818182
 
 ![image](https://user-images.githubusercontent.com/72274851/220107979-dd34e1e7-e019-4d69-9225-6625277fc30b.png)
