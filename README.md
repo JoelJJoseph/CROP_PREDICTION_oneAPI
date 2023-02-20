@@ -36,6 +36,11 @@ The crop recommendation application is a cutting-edge tool that helps farmers ma
 
 # What I learned ![image](https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png)
 
+
+![image](https://user-images.githubusercontent.com/72274851/220130227-3c48e87b-3e68-4f1c-b0e4-8e3ad9a4805a.png)
+
+✅Building application using intel oneDAL:The Intel oneAPI Data Analytics Library (oneDAL) contributes to the acceleration of big data analysis by providing highly optimised algorithmic building blocks for all phases of data analytics (preprocessing, transformation, analysis, modelling, validation, and decision making) in batch, online, and distributed processing modes of computation.The library optimizes data ingestion along with algorithmic computation to increase throughput and scalability.
+
 ✅Building a crop recommendation application involves a significant amount of research and development. During the process, I likely learned a number of things, including:
 
 ✅Soil Science: I likely gained a deeper understanding of soil science and the various factors that affect crop growth, such as pH levels, nutrient content, and soil moisture levels.
