@@ -29,7 +29,7 @@ The crop recommendation application is a cutting-edge tool that helps farmers ma
 - [x] RF --> 0.9840909090909091
 - [x] XGBoost --> 0.9931818181818182
 
-![image](https://user-images.githubusercontent.com/72274851/220107979-dd34e1e7-e019-4d69-9225-6625277fc30b.png)
+![image](https://user-images.githubusercontent.com/72274851/220109054-42f1cda1-3aa9-4c2c-92d7-0a957a9ad084.png)
 
 ### ✅Save the model
 
